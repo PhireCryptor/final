@@ -1,0 +1,3 @@
+# Module doctorappointmentscheduler
+# RPC service class, partial path of RPC policy file
+doctorappointmentscheduler.client.DBConnection, AAF07A889B3F146321EE79FACFADC693.gwt.rpc
